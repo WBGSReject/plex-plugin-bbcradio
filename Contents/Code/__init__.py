@@ -69,7 +69,7 @@ RadioCambridge_HLS = 'http://a.files.bbci.co.uk/media/live/manifesto/audio/simul
 RadioCornwall_HLS = 'http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_cornwall.m3u8'
 # EXTINF:-1,[*CW] BBC Radio Coventry Warwickshire
 RadioCoventryWarwickshire_HLS = 'http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_coventry_warwickshire.m3u8'
-#EXTINF:-1,[*CU] BBC Radio Cumbria
+# EXTINF:-1,[*CU] BBC Radio Cumbria
 RadioCumbria_HLS = 'http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_cumbria.m3u8'
 # EXTINF:-1,[*DE] BBC Radio Derby
 RadioDerby_HLS = 'http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_derby.m3u8'
@@ -89,7 +89,7 @@ RadioHumberside_HLS = 'http://a.files.bbci.co.uk/media/live/manifesto/audio/simu
 RadioJersey_HLS = 'http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_jersey.m3u8'
 # EXTINF:-1,[*KE] BBC Radio Kent
 RadioKent_HLS = 'http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_kent.m3u8'
-#cEXTINF:-1,[*LA] BBC Radio Lancashire
+# EXTINF:-1,[*LA] BBC Radio Lancashire
 RadioLancashire_HLS = 'http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_lancashire.m3u8'
 # EXTINF:-1,[*LE] BBC Radio Leeds
 RadioLeeds_HLS = 'http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_leeds.m3u8'
